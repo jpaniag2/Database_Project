@@ -16,7 +16,7 @@ Business Rules
 - Administrators may look up who rates the most based on customers' graduation year.
 - Administrator can add or remove driver and restaurant.
 
-EERD (full database)
+EERD 
 ![EERD](https://github.com/jpaniag2/Database_Project/blob/main/EERD_Campus_Eats.png)
 
 MySQL Queries
