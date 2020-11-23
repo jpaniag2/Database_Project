@@ -20,6 +20,10 @@ EERD:
 
 ![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Campus_Eats_EERD.png)
 
+Data Dictionary:
+
+![Data Dictionary](https://github.com/jpaniag2/Database_Project/blob/main/Schema%20Report%20for%20database_%20campus_eats_fall2020.pdf)
+
 
 MySQL Queries
 Stored Procedure
