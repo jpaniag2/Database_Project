@@ -13,7 +13,7 @@ Business Rules
 - Customer can create an account and search the database for restaurants and their ratings.
 - Customer may provide ratings after each order in regards to the driver and restaurant. 
 - Administrators may look up drivers ratings and restaurant ratings. 
-- Administrators may look up who rates the most based on customers' age.
+- Administrators may look up who rates the most based on customers' graduation year.
 - Administrator can add or remove driver and restaurant.
 
 EERD (full database)
