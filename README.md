@@ -17,6 +17,7 @@ Business Rules:
 - Administrator can add or remove driver and restaurant.
 
 EERD:
+
 ![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Campus_Eats_EERD.png)
 
 
