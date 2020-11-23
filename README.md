@@ -17,8 +17,7 @@ Business Rules
 - Administrator can add or remove driver and restaurant.
 
 EERD (full database)
-
-
+![EERD](https://github.com/jpaniag2/Database_Project/blob/main/EERD_Campus_Eats.png)
 
 MySQL Queries
 Stored Procedure
