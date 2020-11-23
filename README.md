@@ -24,6 +24,11 @@ Data Dictionary:
 
 ![Data Dictionary](https://github.com/jpaniag2/Database_Project/blob/main/Schema%20Report%20for%20database_%20campus_eats_fall2020.pdf)
 
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.30%20PM.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.41%20PM.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.53%20PM.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.29.06%20PM.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.29.15%20PM.png)
 
 MySQL Queries
 Stored Procedure
