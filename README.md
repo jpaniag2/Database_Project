@@ -27,6 +27,15 @@ Data Dictionary:
 
 
 MySQL Queries
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE1.png)
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE2.png)
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE3.png)
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE4.png)
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE5.png)
+![Queries](https://github.com/jpaniag2/Database_Project/blob/main/SELECT%20EXAMPLE6.png)
+
+
+
 Stored Procedure
 Web/App Implementation (Optional) or Description of Future Work
 MySQL dump
