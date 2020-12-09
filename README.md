@@ -18,7 +18,7 @@ Business Rules:
 
 EERD:
 
-![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Campus_Eats_EERD.png)
+![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Deliverable3_EERD.pdf)
 
 Data Dictionary:
 
