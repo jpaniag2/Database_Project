@@ -23,11 +23,8 @@ You will find the name of each table highlighted in blue. The primary key has a 
 
 Data Dictionary:
 
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.30%20PM.png)
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.41%20PM.png)
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.28.53%20PM.png)
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.29.06%20PM.png)
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/Screen%20Shot%202020-11-22%20at%2011.29.15%20PM.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/DataDictionary_Deliverable3.png)
+
 
 MySQL Queries
 Stored Procedure
