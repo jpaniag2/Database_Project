@@ -23,7 +23,8 @@ You will find the name of each table highlighted in blue. The primary key has a 
 
 Data Dictionary:
 
-![Data](https://github.com/jpaniag2/Database_Project/blob/main/DataDictionary_Deliverable3.png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/DataDictionary_Deliverable3(1).png)
+![Data](https://github.com/jpaniag2/Database_Project/blob/main/DataDictionary_Deliverable3(2).png)
 
 
 MySQL Queries
