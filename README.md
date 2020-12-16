@@ -45,7 +45,7 @@ Stored Procedure
 Web/App Implementation (Optional) or Description of Future Work
 
 MySQL dump
-![MySQL Dump](https://github.com/jpaniag2/Database_Project/blob/main/MySQL_Dump.sql)
+![MySQL Dump](https://github.com/jpaniag2/Database_Project/blob/main/MySQL%20Dump/MySQL_Dump.sql)
 
 PPT Video (link)
 ![PowerPoint](https://github.com/jpaniag2/Database_Project/blob/main/Group27.pptx)
