@@ -4,7 +4,8 @@ Julio Paniagua Andrea Peralta
 Campus Eats @ UNC-Charlotte
 
 Description:
-In this project, we have created a database system for students, faculty, and staff to look up restaurant and driver ratings which include delivery time, restaurant's food item, and driver. 
+In this project, we have modified a database system for students, faculty, and staff to look up a ratings system which ratings for drivers and restaurants.
+
 
 Use Case:
 ![Use Case](https://github.com/jpaniag2/Database_Project/blob/main/Use%20Case%20-%20%20Database%20Project.PNG)
