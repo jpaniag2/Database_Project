@@ -40,6 +40,8 @@ MySQL Queries
 
 Stored Procedure
 
+![Stored Procedure](https://github.com/jpaniag2/Database_Project/blob/main/Stored%20Procedure.png)
+
 Web/App Implementation (Optional) or Description of Future Work
 
 MySQL dump
