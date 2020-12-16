@@ -12,10 +12,10 @@ Use Case:
 
 Business Rules:
 - Customer can create an account and search the database for restaurants and their ratings.
-- Customer may provide ratings after each order in regards to the driver and restaurant. 
+- Customer may provide restaurant and/or driver ratings after each order.
 - Administrators may look up drivers ratings and restaurant ratings. 
-- Administrators may look up who rates the most based on customers' graduation year.
-- Administrator can add or remove driver and restaurant.
+- Administrators may look up who highest or lowest ratings.
+- Administrator can add or remove drivers and/or restaurants.
 
 EERD:
 You will find the name of each table highlighted in blue. The primary key has a key symbol next to it, located first in each table. The foreign keys have a red diamond symbol next to them. These link the tables together. The data type (INT, VARCHAR, FLOAT, DATE) is located next to each column name inside the table.
