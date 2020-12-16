@@ -48,3 +48,4 @@ MySQL dump
 ![MySQL DUmp](https://github.com/jpaniag2/Database_Project/blob/main/Deliverable_3_DataExport.sql)
 
 PPT Video (link)
+![PowerPoint](https://github.com/jpaniag2/Database_Project/blob/main/Group27.pptx)
