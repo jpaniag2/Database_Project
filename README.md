@@ -20,7 +20,7 @@ Business Rules:
 EERD:
 You will find the name of each table highlighted in blue. The primary key has a key symbol next to it, located first in each table. The foreign keys have a red diamond symbol next to them. These link the tables together. The data type (INT, VARCHAR, FLOAT, DATE) is located next to each column name inside the table.
 
-![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Campus_Eats_EERD.png)
+![EERD](https://github.com/jpaniag2/Database_Project/blob/main/Deliverable3_EERD.png)
 
 Data Dictionary:
 
