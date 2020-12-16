@@ -4,7 +4,7 @@ Julio Paniagua Andrea Peralta
 Campus Eats @ UNC-Charlotte
 
 Description:
-In this project, we have modified a database system for students, faculty, and staff to look up a ratings system which ratings for drivers and restaurants.
+In this project, we have modified a database system for students, faculty, and staff to look up a ratings system for drivers and restaurants.
 
 
 Use Case:
